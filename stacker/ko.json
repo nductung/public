@@ -567,6 +567,8 @@
     "this_coupon_has_already_been_used": "이미 사용이 완료된 쿠폰입니다",
     "this_coupon_cannot_be_used": "사용할 수 없는 쿠폰입니다",
     "coupon_code_has_already_been_registered": "",
+    "this_coupon_cannot_be_used_on_this_exchange": "",
+    "coupon_code_not_found": "",
     "coupon_is_not_active": "",
     "this_coupon_has_expired": "기한이 만료된 쿠폰입니다",
     "this_coupon_has_run_out_of_available_quantity": "수량이 모두 소진된 쿠폰입니다",

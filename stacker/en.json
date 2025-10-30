@@ -567,6 +567,8 @@
     "this_coupon_has_already_been_used": "This coupon has already been used.",
     "this_coupon_cannot_be_used": "This coupon cannot be used.",
     "coupon_code_has_already_been_registered": "Coupon code has already been registered",
+    "this_coupon_cannot_be_used_on_this_exchange": "This coupon cannot be used on this exchange",
+    "coupon_code_not_found": "Coupon code not found",
     "coupon_is_not_active": "Coupon is not active",
     "this_coupon_has_expired": "This coupon has expired.",
     "this_coupon_has_run_out_of_available_quantity": "This coupon has run out of available quantity.",

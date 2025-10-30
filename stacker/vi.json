@@ -567,6 +567,8 @@
     "this_coupon_has_already_been_used": "Coupon đã được sử dụng",
     "this_coupon_cannot_be_used": "Mã coupon không chính xác",
     "coupon_code_has_already_been_registered": "",
+    "this_coupon_cannot_be_used_on_this_exchange": "",
+    "coupon_code_not_found": "",
     "coupon_is_not_active": "",
     "this_coupon_has_expired": "Mã coupon đã hết hạn",
     "this_coupon_has_run_out_of_available_quantity": "Mã coupon đã hết lượt sử dụng",

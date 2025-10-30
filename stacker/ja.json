@@ -567,6 +567,8 @@
     "this_coupon_has_already_been_used": "このクーポンはすでに使用されています。",
     "this_coupon_cannot_be_used": "このクーポンは使用できません。",
     "coupon_code_has_already_been_registered": "",
+    "this_coupon_cannot_be_used_on_this_exchange": "",
+    "coupon_code_not_found": "",
     "coupon_is_not_active": "",
     "this_coupon_has_expired": "このクーポンは有効期限が切れています。",
     "this_coupon_has_run_out_of_available_quantity": "このクーポンは数量がすべて終了しました。",

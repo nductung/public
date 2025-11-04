@@ -113,7 +113,16 @@
     "commission_upload_history_not_found": "",
     "recaptcha_token_is_required": "",
     "recaptcha_verification_failed": "",
-    "not_support_file_extension": ""
+    "not_support_file_extension": "",
+    "this_coupon_has_already_been_used": "Coupon đã được sử dụng",
+    "this_coupon_cannot_be_used": "Mã coupon không chính xác",
+    "coupon_code_has_already_been_registered": "Coupon đã được đăng kí",
+    "this_coupon_cannot_be_used_on_this_exchange": "Coupon này không thể sử dụng ở sàn hiện tại.",
+    "coupon_code_not_found": "Mã coupon không chính xác",
+    "coupon_is_not_active": "Mã coupon không hợp lệ",
+    "this_coupon_has_expired": "Mã coupon đã hết hạn",
+    "this_coupon_has_run_out_of_available_quantity": "Mã coupon đã hết lượt sử dụng",
+    "you_can_only_register_one_coupon_code_per_event": "Mỗi event chỉ có thể đăng kí 1 coupon"
   },
   "HomePage": {
     "just_connect_to_the_exchange_and_get_maximum_payback_on_fees": "Liên kết dễ dàng,\nhoàn phí tối đa!",
@@ -214,7 +223,22 @@
     "stacker_terms_of_use": "Điều khoản sử dụng Stacker",
     "welcome_you_have_successfully_completed_your_registration": "Chào mừng bạn,\nbạn đã hoàn tất đăng ký.",
     "get_started": "Bắt đầu",
-    "you_generally_cannot_sign_up_or_log_in_with_the_same_email_after_deleting_an_account": "Sau khi xóa tài khoản, bạn sẽ không thể đăng ký/đăng nhập lại bằng email đó"
+    "you_generally_cannot_sign_up_or_log_in_with_the_same_email_after_deleting_an_account": "Sau khi xóa tài khoản, bạn sẽ không thể đăng ký/đăng nhập lại bằng email đó",
+    "welcome_to_stacker": "Chào mừng bạn đến với Stacker!",
+    "just_a_few_more_minutes_of_your_time_and_youll_get_fee_paybacks": "Hãy dành thêm vài phút nữa, để nhận được ưu đãi hoàn phí giao dịch",
+    "so_how_do_you_receive_the_payback": "Làm thế nào để có thể nhận hoàn phí?",
+    "step_1_sign_up_for_an_exchange": "• Bước 1. Đăng kí sàn giao dịch!",
+    "step_2_link_it_with_stacker": "• Bước 2. Liên kết với Stacker!",
+    "sign_up_for_an_exchange": "Đăng kí sàn giao dịch",
+    "stacker_has_partnerships_with_many_global_exchanges": "Stacker đang hợp tác với nhiều sàn giao dịch toàn cầu",
+    "which_exchange_would_you_like_to_join": "Bạn muốn đăng kí sàn giao dịch nào?",
+    "ill_link_it_later": "Tiến hành sau!",
+    "exchange_sign_up_and_linking_are_required": "Cần phải đăng kí và liên kết sàn giao dịch!",
+    "you_need_to_sign_up_for_an_exchange_to_receive_paybacks": "Nếu không đăng kí sàn giao dịch, bạn sẽ không nhận được hoàn phí!",
+    "would_you_like_to_sign_up_later": "Bạn sẽ đăng kí sau?",
+    "ill_do_it_now": "Đăng kí ngay",
+    "ill_do_it_later": "Tiến hành sau!",
+    "view_more_exchanges": "Xem thêm các sàn giao dịch"
   },
   "ConnectExchangePage": {
     "exchange_connection": "Kết nối sàn giao dịch",
@@ -469,7 +493,20 @@
     "snapx_feature": "SnapX cho phép giao dịch DEX, và giao dịch được khớp theo giá thị trường.",
     "market_price": "Giá Market%",
     "exchange_name_trading_fee_policy": "{{exchange_name}} chính sách phí giao dịch",
-    "start_exchange_name_on_stacker": "Bắt đầu với {{exchange_name}}"
+    "start_exchange_name_on_stacker": "Bắt đầu với {{exchange_name}}",
+    "limits": "Giá Limit%",
+    "cashback": "Hoàn phí",
+    "sign_up": "Đăng kí",
+    "estimated_stacker_cashback": "Dự kiến hoàn phí Stacker",
+    "based_on_a_10m_usdt_transaction_actual_amount_may_vary_with_exchange_rates": "Đây là số tiền dự kiến khi giao dịch 10M USDT, có thể thay đổi theo tỉ giá ngoại tệ. ",
+    "first_time_joining_the_exchange": "Đăng kí sàn giao dịch? ",
+    "the_stacker_referral_code_is_automatically_applied": "Liên kết đã được nhập sẵn mã giới thiệu Stacker",
+    "sign_up_exchangename": "Đăng kí \n{{exchangeName}}",
+    "already_trading": "Bạn đang giao dịch ở sàn này rồi? ",
+    "you_must_re_sign_up_with_a_stacker_referral_code": "Bạn cần đăng ký lại bằng mã giới thiệu Stacker!\n",
+    "each_exchange_allows_creating_multiple_accounts_per_identification_document": "Mỗi sàn giao dịch cho phép tạo nhiều tài khoản theo từng giấy tờ tùy thân!",
+    "sign_up_again_exchangename": "Đăng kí lại \n{{exchangeName}}",
+    "view_more": "Xem chi tiết"
   },
   "CalculatorPage": {
     "expected_payback": "Hoàn phí dự kiến",

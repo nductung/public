@@ -113,7 +113,16 @@
     "commission_upload_history_not_found": "Commission upload history not found",
     "recaptcha_token_is_required": "reCAPTCHA token is required",
     "recaptcha_verification_failed": "reCAPTCHA verification failed",
-    "not_support_file_extension": "Not support file extension."
+    "not_support_file_extension": "Not support file extension.",
+    "this_coupon_has_already_been_used": "This coupon has already been used.",
+    "this_coupon_cannot_be_used": "This coupon cannot be used.",
+    "coupon_code_has_already_been_registered": "This coupon has already been registered.",
+    "this_coupon_cannot_be_used_on_this_exchange": "This coupon cannot be used on this exchange",
+    "coupon_code_not_found": "The coupon code is invalid.",
+    "coupon_is_not_active": "This coupon cannot be used.",
+    "this_coupon_has_expired": "This coupon has expired.",
+    "this_coupon_has_run_out_of_available_quantity": "This coupon has run out of available quantity.",
+    "you_can_only_register_one_coupon_code_per_event": "You can only register one coupon code per event"
   },
   "HomePage": {
     "just_connect_to_the_exchange_and_get_maximum_payback_on_fees": "Connect the exchange\nGet the maximum fee Cashback",
@@ -214,7 +223,22 @@
     "stacker_terms_of_use": "Stacker Terms of Use",
     "welcome_you_have_successfully_completed_your_registration": "Welcome,\nyou have successfully completed registration.",
     "get_started": "Get Started",
-    "you_generally_cannot_sign_up_or_log_in_with_the_same_email_after_deleting_an_account": "After deleting your account, you cannot use the same email to sign up or log in again"
+    "you_generally_cannot_sign_up_or_log_in_with_the_same_email_after_deleting_an_account": "After deleting your account, you cannot use the same email to sign up or log in again",
+    "welcome_to_stacker": "Welcome to Stacker!",
+    "just_a_few_more_minutes_of_your_time_and_youll_get_fee_paybacks": "Just a few more minutes of your time, and you’ll get fee paybacks!",
+    "so_how_do_you_receive_the_payback": "So, how do you receive the payback?",
+    "step_1_sign_up_for_an_exchange": "• STEP 1. Sign up for an exchange!",
+    "step_2_link_it_with_stacker": "• STEP 2. Link it with Stacker!",
+    "sign_up_for_an_exchange": "Sign up for an exchange",
+    "stacker_has_partnerships_with_many_global_exchanges": "Stacker has partnerships with many global exchanges.",
+    "which_exchange_would_you_like_to_join": "Which exchange would you like to join?",
+    "ill_link_it_later": "I’ll link it later!",
+    "exchange_sign_up_and_linking_are_required": "Exchange sign-up and linking are required!",
+    "you_need_to_sign_up_for_an_exchange_to_receive_paybacks": "You need to sign up for an exchange to receive paybacks.",
+    "would_you_like_to_sign_up_later": "Would you like to sign up later?",
+    "ill_do_it_now": "I’ll do it now",
+    "ill_do_it_later": "I’ll do it later",
+    "view_more_exchanges": "View more exchanges"
   },
   "ConnectExchangePage": {
     "exchange_connection": "Add Exchange ",
@@ -469,7 +493,20 @@
     "snapx_feature": "SnapX supports DEX trading, and all trades are executed at market price.",
     "market_price": "Market Price%",
     "exchange_name_trading_fee_policy": "{{exchange_name}} Trading Fee Policy",
-    "start_exchange_name_on_stacker": "Start {{exchange_name}} on Stacker"
+    "start_exchange_name_on_stacker": "Start {{exchange_name}} on Stacker",
+    "limits": "Limit Price%",
+    "cashback": "Cashback",
+    "sign_up": "Sign up",
+    "estimated_stacker_cashback": "Estimated Stacker cashback",
+    "based_on_a_10m_usdt_transaction_actual_amount_may_vary_with_exchange_rates": "Based on a 10M USDT transaction. Actual amount may vary with exchange rates.",
+    "first_time_joining_the_exchange": "First time joining the exchange?",
+    "the_stacker_referral_code_is_automatically_applied": "The Stacker referral code is automatically applied.",
+    "sign_up_exchangename": "Sign up  \n{{exchangeName}}",
+    "already_trading": "Already trading?",
+    "you_must_re_sign_up_with_a_stacker_referral_code": "You must re-sign up with a Stacker referral code!\n",
+    "each_exchange_allows_creating_multiple_accounts_per_identification_document": "Each exchange allows creating multiple accounts per identification document!",
+    "sign_up_again_exchangename": "Sign up again {{exchangeName}}",
+    "view_more": "View more"
   },
   "CalculatorPage": {
     "expected_payback": "Cashback",

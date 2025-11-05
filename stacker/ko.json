@@ -160,7 +160,10 @@
     "meme_bot_trading_tool": "Meme & Bot 거래툴",
     "easy_access_meme_trading": "쉽게 접하는 밈 트레이드!",
     "the_rising_star_of_choice": "선택받는 신흥 강자!",
-    "global_user_base": "글로벌 유저 베이스"
+    "global_user_base": "글로벌 유저 베이스",
+    "basic": "기본",
+    "boost": "부스터",
+    "extra": "추가"
   },
   "SignInPage": {
     "log_in": "로그인",
@@ -229,7 +232,7 @@
     "so_how_do_you_receive_the_payback": "그럼 이제 페이백은 어떻게 받나요?",
     "step_1_sign_up_for_an_exchange": " • STEP1.  <g>거래소 가입</g>하기!",
     "step_2_link_it_with_stacker": " • STEP2. <g>Stacker 연동</g>하기!",
-    "sign_up_for_an_exchange": "거래소 가입하기 ",
+    "sign_up_for_an_exchange": "거래소 가입하기 →",
     "stacker_has_partnerships_with_many_global_exchanges": "Stacker는 많은 글로벌 거래소와 제휴하고 있습니다. ",
     "which_exchange_would_you_like_to_join": "어떤 거래소에 가입하시겠어요?",
     "ill_link_it_later": "나중에 연결할게요!",
@@ -238,7 +241,7 @@
     "would_you_like_to_sign_up_later": "나중에 가입하시겠습니까? ",
     "ill_do_it_now": "지금 할게요",
     "ill_do_it_later": "나중에 할게요",
-    "view_more_exchanges": "더 많은 거래소 보기"
+    "view_more_exchanges": "더 많은 거래소 보기 →"
   },
   "ConnectExchangePage": {
     "exchange_connection": "거래소 연결",
@@ -251,6 +254,7 @@
     "connect": "연결하기",
     "sign_up": "가입하기",
     "please_enter_your_uid": "UID를 입력해주세요",
+    "go_to_exchange": "거래소 이동",
     "it_is_more_accurate_to_enter_the_uid_using_the_copy_button": "복사하기 [버튼]으로 UID를 입력하면 더 정확합니다",
     "select_an_exchange": "거래소 선택",
     "this_exchange_has_the_highest_payback_rate": "해당 거래소는 페이백 최고 요율이 적용되는 거래소입니다",
@@ -506,7 +510,12 @@
     "you_must_re_sign_up_with_a_stacker_referral_code": "단 Stacker 추천 코드로 재가입하셔야해요!",
     "each_exchange_allows_creating_multiple_accounts_per_identification_document": "각 거래소는, 각 신분증별로 다수의 계정을 만들 수 있어요!",
     "sign_up_again_exchangename": "{{exchangeName}}\n재가입하기",
-    "view_more": "자세히 보기"
+    "view_more": "자세히 보기",
+    "basic_cashback": "기본 페이백",
+    "boost": " 부스트",
+    "extra_cashback": "추가 페이백",
+    "boost_event_coming_soon": "※ 곧 수수료 최대 할인 부스트 이벤트가 시작됩니다. ",
+    "cashback_info": "페이백 안내"
   },
   "CalculatorPage": {
     "expected_payback": "예상 페이백",
@@ -624,6 +633,7 @@
     "exchange_notice": "< 주의 사항  >\n해당 거래소에서는 쿠폰 등록이 지원되지 않습니다.\n[OKX], [BloFin], [Phemex], [Bitunix], [Backpack]",
     "you_cannot_register_a_coupon_because_there_is_no_connected_exchange": "현재 연동중인 거래소가 없어, 쿠폰을 등록할 수 없습니다 ",
     "usage_date": "사용 날짜",
-    "coupon_code": "쿠폰 코드"
+    "coupon_code": "쿠폰 코드",
+    "there_are_no_used_coupons": "사용 완료한 쿠폰이 없습니다"
   }
 }

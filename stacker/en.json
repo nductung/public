@@ -146,8 +146,8 @@
     "connected_exchanges": "Connected Exchanges",
     "connecting_a_new_exchange": "Add New Exchange",
     "view_all_length": "View all ({{length}})",
-    "limits": "Limit Price%",
-    "market_price": "Market Price%",
+    "limits": "Limit",
+    "market_price": "Market",
     "rate_fee_payback": "{{rate}} Cashback",
     "top_global_liquidity": "Top Global Liquidity!",
     "liquidity_up_stability_up": "Liquidity ↑, Stability ↑",
@@ -160,7 +160,10 @@
     "meme_bot_trading_tool": "Meme & Bot Trading Tool",
     "easy_access_meme_trading": "Easy-access meme trading!",
     "the_rising_star_of_choice": "The Rising Star of Choice",
-    "global_user_base": "Global user base"
+    "global_user_base": "Global user base",
+    "basic": "Basic",
+    "boost": "Boost",
+    "extra": "Extra"
   },
   "SignInPage": {
     "log_in": "Login",
@@ -229,7 +232,7 @@
     "so_how_do_you_receive_the_payback": "So, how do you receive the payback?",
     "step_1_sign_up_for_an_exchange": "• STEP 1. Sign up for an exchange!",
     "step_2_link_it_with_stacker": "• STEP 2. Link it with Stacker!",
-    "sign_up_for_an_exchange": "Sign up for an exchange",
+    "sign_up_for_an_exchange": "Sign up for an exchange →",
     "stacker_has_partnerships_with_many_global_exchanges": "Stacker has partnerships with many global exchanges.",
     "which_exchange_would_you_like_to_join": "Which exchange would you like to join?",
     "ill_link_it_later": "I’ll link it later!",
@@ -238,7 +241,7 @@
     "would_you_like_to_sign_up_later": "Would you like to sign up later?",
     "ill_do_it_now": "I’ll do it now",
     "ill_do_it_later": "I’ll do it later",
-    "view_more_exchanges": "View more exchanges"
+    "view_more_exchanges": "View more exchanges →"
   },
   "ConnectExchangePage": {
     "exchange_connection": "Add Exchange ",
@@ -251,6 +254,7 @@
     "connect": "Connect",
     "sign_up": "Sign up",
     "please_enter_your_uid": "Please enter UID",
+    "go_to_exchange": "Exchange",
     "it_is_more_accurate_to_enter_the_uid_using_the_copy_button": "Enter UID with the [Copy] button for precision.",
     "select_an_exchange": "Select Exchange",
     "this_exchange_has_the_highest_payback_rate": "This exchange offers the highest Cashback rate",
@@ -506,7 +510,12 @@
     "you_must_re_sign_up_with_a_stacker_referral_code": "You must re-sign up with a Stacker referral code!\n",
     "each_exchange_allows_creating_multiple_accounts_per_identification_document": "Each exchange allows creating multiple accounts per identification document!",
     "sign_up_again_exchangename": "Sign up again {{exchangeName}}",
-    "view_more": "View more"
+    "view_more": "View more",
+    "basic_cashback": "Basic Cashback",
+    "boost": "Boost",
+    "extra_cashback": "Extra Cashback",
+    "boost_event_coming_soon": "※ Boost Event coming soon!",
+    "cashback_info": "Cashback Info"
   },
   "CalculatorPage": {
     "expected_payback": "Cashback",
@@ -624,6 +633,7 @@
     "exchange_notice": "< Notice  >\nThis exchange does not support coupon registration.\n[OKX], [BloFin], [Phemex], [Bitunix], [Backpack]",
     "you_cannot_register_a_coupon_because_there_is_no_connected_exchange": "You cannot register a coupon because there is no connected exchange ",
     "usage_date": "Usage date",
-    "coupon_code": "Coupon code"
+    "coupon_code": "Coupon code",
+    "there_are_no_used_coupons": "There are no used coupons."
   }
 }

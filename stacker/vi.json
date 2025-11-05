@@ -146,8 +146,8 @@
     "connected_exchanges": "Sàn giao dịch đã liên kết",
     "connecting_a_new_exchange": "Thêm sàn giao dịch",
     "view_all_length": "Xem toàn bộ ({{length}})",
-    "limits": "Giá Limit%",
-    "market_price": "Giá Market%",
+    "limits": "Limit",
+    "market_price": "Market",
     "rate_fee_payback": "Hoàn phí {{rate}}",
     "top_global_liquidity": "Thanh khoản hàng đầu",
     "liquidity_up_stability_up": "Tính thanh khoản ↑, tính ổn định ↑",
@@ -160,7 +160,10 @@
     "meme_bot_trading_tool": "Công cụ giao dịch Meme & Bot",
     "easy_access_meme_trading": "Giao dịch meme dễ dàng!",
     "the_rising_star_of_choice": "Sàn giao dịch mới uy tín!",
-    "global_user_base": "Nền tảng người dùng toàn cầu"
+    "global_user_base": "Nền tảng người dùng toàn cầu",
+    "basic": "Basic",
+    "boost": "Boost",
+    "extra": "Extra"
   },
   "SignInPage": {
     "log_in": "Đăng nhập",
@@ -229,7 +232,7 @@
     "so_how_do_you_receive_the_payback": "Làm thế nào để có thể nhận hoàn phí?",
     "step_1_sign_up_for_an_exchange": "• Bước 1. Đăng kí sàn giao dịch!",
     "step_2_link_it_with_stacker": "• Bước 2. Liên kết với Stacker!",
-    "sign_up_for_an_exchange": "Đăng kí sàn giao dịch",
+    "sign_up_for_an_exchange": "Đăng kí sàn giao dịch →",
     "stacker_has_partnerships_with_many_global_exchanges": "Stacker đang hợp tác với nhiều sàn giao dịch toàn cầu",
     "which_exchange_would_you_like_to_join": "Bạn muốn đăng kí sàn giao dịch nào?",
     "ill_link_it_later": "Tiến hành sau!",
@@ -238,7 +241,7 @@
     "would_you_like_to_sign_up_later": "Bạn sẽ đăng kí sau?",
     "ill_do_it_now": "Đăng kí ngay",
     "ill_do_it_later": "Tiến hành sau!",
-    "view_more_exchanges": "Xem thêm các sàn giao dịch"
+    "view_more_exchanges": "Xem thêm các sàn giao dịch →"
   },
   "ConnectExchangePage": {
     "exchange_connection": "Kết nối sàn giao dịch",
@@ -251,6 +254,7 @@
     "connect": "Kết nối",
     "sign_up": "Đăng ký",
     "please_enter_your_uid": "Vui lòng nhập UID",
+    "go_to_exchange": "Đến sàn",
     "it_is_more_accurate_to_enter_the_uid_using_the_copy_button": "Để nhập UID chính xác, hãy sử dụng nút Sao chép.",
     "select_an_exchange": "Chọn sàn giao dịch",
     "this_exchange_has_the_highest_payback_rate": "Đây là sàn giao dịch được áp dụng tỷ lệ hoàn phí cao nhất",
@@ -506,7 +510,12 @@
     "you_must_re_sign_up_with_a_stacker_referral_code": "Bạn cần đăng ký lại bằng mã giới thiệu Stacker!\n",
     "each_exchange_allows_creating_multiple_accounts_per_identification_document": "Mỗi sàn giao dịch cho phép tạo nhiều tài khoản theo từng giấy tờ tùy thân!",
     "sign_up_again_exchangename": "Đăng kí lại \n{{exchangeName}}",
-    "view_more": "Xem chi tiết"
+    "view_more": "Xem chi tiết",
+    "basic_cashback": "Mức cơ bản",
+    "boost": "Boost",
+    "extra_cashback": "Mức bổ sung",
+    "boost_event_coming_soon": "※ Sự kiện Boost giảm phí sắp diễn ra!",
+    "cashback_info": "Thông tin hoàn phí"
   },
   "CalculatorPage": {
     "expected_payback": "Hoàn phí dự kiến",
@@ -624,6 +633,7 @@
     "exchange_notice": "< Chú ý  >\nĐây là các sàn không hỗ trợ đăng kí coupon\n[OKX], [BloFin], [Phemex], [Bitunix], [Backpack]",
     "you_cannot_register_a_coupon_because_there_is_no_connected_exchange": "Không thể đăng kí coupon do chưa có sàn nào được liên kết",
     "usage_date": "Ngày sử dụng",
-    "coupon_code": "Mã coupon"
+    "coupon_code": "Mã coupon",
+    "there_are_no_used_coupons": "Không có lịch sử sử dụng coupon"
   }
 }

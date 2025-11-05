@@ -160,7 +160,10 @@
     "meme_bot_trading_tool": "Meme＆Bot取引ツール",
     "easy_access_meme_trading": "もっと身近なMemeトレード",
     "the_rising_star_of_choice": "選ばれる新興の強者！",
-    "global_user_base": "グローバルユーザーベース"
+    "global_user_base": "グローバルユーザーベース",
+    "basic": "基本",
+    "boost": "加速",
+    "extra": "追加"
   },
   "SignInPage": {
     "log_in": "ログイン",
@@ -229,7 +232,7 @@
     "so_how_do_you_receive_the_payback": "では、ペイバックはどうやって受け取るのでしょうか？",
     "step_1_sign_up_for_an_exchange": "• STEP1. 取引所に登録！",
     "step_2_link_it_with_stacker": "• STEP2. Stacker と連携！",
-    "sign_up_for_an_exchange": "取引所に登録する",
+    "sign_up_for_an_exchange": "取引所に登録する →",
     "stacker_has_partnerships_with_many_global_exchanges": "Stacker は多くのグローバル取引所と提携しています。",
     "which_exchange_would_you_like_to_join": "どの取引所に登録しますか？",
     "ill_link_it_later": "後で連携します！",
@@ -238,7 +241,7 @@
     "would_you_like_to_sign_up_later": "後で登録しますか？",
     "ill_do_it_now": "今すぐ登録する",
     "ill_do_it_later": "後で登録する",
-    "view_more_exchanges": "さらに多くの取引所を見る"
+    "view_more_exchanges": "さらに多くの取引所を見る →"
   },
   "ConnectExchangePage": {
     "exchange_connection": "取引所連携",
@@ -251,6 +254,7 @@
     "connect": "連携する",
     "sign_up": "登録する",
     "please_enter_your_uid": "UIDを入力してください",
+    "go_to_exchange": "取引所へ",
     "it_is_more_accurate_to_enter_the_uid_using_the_copy_button": "コピーする [ボタン] でUIDを入力すると、より正確です",
     "select_an_exchange": "取引所を選択",
     "this_exchange_has_the_highest_payback_rate": "この取引所はペイバック最高レートが適用されます",
@@ -506,7 +510,12 @@
     "you_must_re_sign_up_with_a_stacker_referral_code": "Stacker の紹介コードで再登録する必要があります！",
     "each_exchange_allows_creating_multiple_accounts_per_identification_document": "各取引所では、身分証ごとに複数のアカウントを作成できます！",
     "sign_up_again_exchangename": "{{exchangeName}} \nに再登録する",
-    "view_more": "詳しく見る"
+    "view_more": "詳しく見る",
+    "basic_cashback": "ベース",
+    "boost": "Boost",
+    "extra_cashback": "追加",
+    "boost_event_coming_soon": "※ まもなく手数料最大割引ブーストイベントが始まります。",
+    "cashback_info": "ペイバックガイド"
   },
   "CalculatorPage": {
     "expected_payback": "予想ペイバック",
@@ -624,6 +633,7 @@
     "exchange_notice": "< 注意事項   >\nこの取引所ではクーポンの登録がサポートされていません。\n[OKX], [BloFin], [Phemex], [Bitunix], [Backpack]",
     "you_cannot_register_a_coupon_because_there_is_no_connected_exchange": "現在連携中の取引所がないため、クーポンを登録することができません。",
     "usage_date": "使用日",
-    "coupon_code": "クーポンコード"
+    "coupon_code": "クーポンコード",
+    "there_are_no_used_coupons": "使用済みのクーポンはありません。"
   }
 }

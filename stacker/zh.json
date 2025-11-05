@@ -160,7 +160,10 @@
     "meme_bot_trading_tool": "Meme & Bot 交易工具",
     "easy_access_meme_trading": "轻松上手的梗交易！",
     "the_rising_star_of_choice": "备受青睐的新兴强者！",
-    "global_user_base": "全球用户基础"
+    "global_user_base": "全球用户基础",
+    "basic": "基本",
+    "boost": "加速",
+    "extra": "追加"
   },
   "SignInPage": {
     "log_in": "登录",
@@ -229,7 +232,7 @@
     "so_how_do_you_receive_the_payback": "那么，现在该如何领取返现呢？",
     "step_1_sign_up_for_an_exchange": "• 步骤1. 注册交易所账号！",
     "step_2_link_it_with_stacker": "• 步骤2. 关联 Stacker！",
-    "sign_up_for_an_exchange": "注册交易所",
+    "sign_up_for_an_exchange": "注册交易所 →",
     "stacker_has_partnerships_with_many_global_exchanges": "Stacker 已与众多全球交易所合作。",
     "which_exchange_would_you_like_to_join": "您想注册哪一家交易所？",
     "ill_link_it_later": "稍后再连接！",
@@ -238,7 +241,7 @@
     "would_you_like_to_sign_up_later": "您要稍后再注册吗？",
     "ill_do_it_now": "现在注册",
     "ill_do_it_later": "稍后再说",
-    "view_more_exchanges": "查看更多交易所"
+    "view_more_exchanges": "查看更多交易所 →"
   },
   "ConnectExchangePage": {
     "exchange_connection": "交易所连接",
@@ -251,6 +254,7 @@
     "connect": "连接",
     "sign_up": "注册",
     "please_enter_your_uid": "请输入 UID",
+    "go_to_exchange": "去交易所",
     "it_is_more_accurate_to_enter_the_uid_using_the_copy_button": "使用 [复制] 按钮输入 UID 会更准确",
     "select_an_exchange": "选择交易所",
     "this_exchange_has_the_highest_payback_rate": "该交易所适用最高返佣比例",
@@ -506,7 +510,12 @@
     "you_must_re_sign_up_with_a_stacker_referral_code": "请使用 Stacker 推荐码重新注册！",
     "each_exchange_allows_creating_multiple_accounts_per_identification_document": "每个交易所都可以根据身份证件创建多个账户！",
     "sign_up_again_exchangename": "重新注册\n{{exchangeName}}",
-    "view_more": "了解更多"
+    "view_more": "了解更多",
+    "basic_cashback": "基本返现",
+    "boost": "Boost",
+    "extra_cashback": "额外返现",
+    "boost_event_coming_soon": "※ 手续费最高折扣的Boost活动即将开始",
+    "cashback_info": "返现指南"
   },
   "CalculatorPage": {
     "expected_payback": "预计返现",
@@ -624,6 +633,7 @@
     "exchange_notice": "< 注意事项   >\n该交易所不支持优惠券注册。\n[OKX], [BloFin], [Phemex], [Bitunix], [Backpack]",
     "you_cannot_register_a_coupon_because_there_is_no_connected_exchange": "由于当前没有关联的交易所，无法注册优惠券。",
     "usage_date": "使用日期",
-    "coupon_code": "优惠券代码"
+    "coupon_code": "优惠券代码",
+    "there_are_no_used_coupons": "没有已使用的优惠券。"
   }
 }

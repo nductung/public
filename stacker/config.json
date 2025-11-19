@@ -1,0 +1,11 @@
+{
+  "WalletCard": true,
+  "EventExchange": true,
+  "ConnectedExchanged": true,
+  "HeroSection": true,
+  "MajorExchanges": true,
+  "EventCarousel": true,
+  "ContactCustomer": true,
+  "Footer": true,
+  "Coupons": true
+}

@@ -7,5 +7,9 @@
   "EventCarousel": true,
   "ContactCustomer": true,
   "Footer": true,
-  "Coupons": true
+  "Coupons": true,
+  "accessToken":
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4ODI2YThkYS1lZjg5LTQzNWYtOGUwNS1lMzA5NGYyMzdlMzYiLCJlbWFpbCI6InR1bmd0aHV5MjkwN0BnbWFpbC5jb20iLCJpYXQiOjE3NjM0NDc5MjEsImV4cCI6MTc3MjA4NzkyMX0.MDcO8MFYkQaMJNVK3HGcDkyf7dNH0VC1BdV6_VIkDHw",
+  "refreshToken":
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4ODI2YThkYS1lZjg5LTQzNWYtOGUwNS1lMzA5NGYyMzdlMzYiLCJlbWFpbCI6InR1bmd0aHV5MjkwN0BnbWFpbC5jb20iLCJpYXQiOjE3NjM0NDc5MjEsImV4cCI6MTc4OTM2NzkyMX0.jklaV5UnmbJCMMCsYDAtcnfduB1hOZRP_75gWGElDUQ"
 }

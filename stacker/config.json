@@ -1,6 +1,6 @@
 {
   "WalletCard": true,
-  "EventExchange": false,
+  "EventExchange": true,
   "ConnectedExchanged": true,
   "HeroSection": true,
   "MajorExchanges": true,

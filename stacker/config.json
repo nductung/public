@@ -8,7 +8,7 @@
   "ContactCustomer": true,
   "Footer": true,
   "Coupons": true,
-  "MyBenefit": true,
+  "MyBenefit": false,
   "accessToken":
       "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4ODI2YThkYS1lZjg5LTQzNWYtOGUwNS1lMzA5NGYyMzdlMzYiLCJlbWFpbCI6InR1bmd0aHV5MjkwN0BnbWFpbC5jb20iLCJpYXQiOjE3NjQxMzcyNjksImV4cCI6MTc3Mjc3NzI2OX0.zNmzJ1Gx-noMsBZbxHa879g0jj85NEwMKnc1PCIhrdA",
   "refreshToken":
